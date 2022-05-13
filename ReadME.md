@@ -6,7 +6,7 @@ What it can do ?
 
 Given the database, the CLI provides various options to preprocess the data.
 Options:
-    Data Description/n
+    Data Description <br />
     Handling NULL Values
     Encoding Categorical Data
     Feature Scaling
